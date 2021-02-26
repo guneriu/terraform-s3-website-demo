@@ -1,0 +1,41 @@
+.idea
+.bundle/
+vendor/
+.vscode/
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### OS files
+.DS_Store
+
+### Terraform ###
+.terraform/
+errored.tfstate
+accounts/**/.terraform/
+terraform.tfstate.backup
+terraform.tfstate.*.backup
+
+
+
